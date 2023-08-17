@@ -9,11 +9,15 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Exercício</title>
 </head>
-<body>
+<body class="exercicio">
     <header class="cabecalho">
         <h1>Curso de PHP</h1>
         <h2>Visualização do Exercício</h2>
     </header>
+    <nav class="navegacao">
+        <a href="#" class="verde">Sem Formatação</a>
+        <a href="index.php" class="vermelho">Voltar</a>
+    </nav>
     <main class="principal">
         <div class="conteudo">
             
