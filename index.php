@@ -11,7 +11,7 @@
 </head>
 <body>
     <header class="cabecalho">
-        <h1>Curso de PHP 2023</h1>
+        <h1>Curso de PHP</h1>
         <h2>Índice dos Exercícios</h2>
     </header>
     <main class="principal">
