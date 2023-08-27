@@ -21,16 +21,16 @@
                     <h3>Módulo 01</h3>
                     <ul>
                         <li>
-                            <a href="exercicio.php?dir=basico&file=ola">Olá PHP</a>
+                            <a href="exercicio.php?dir=basico&file=ola">Olá PHP.</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=basico&file=html">Integração HTML</a>
+                            <a href="exercicio.php?dir=basico&file=html">Integração HTML.</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=basico&file=css">Integração CSS</a>
+                            <a href="exercicio.php?dir=basico&file=css">Integração CSS.</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=basico&file=comentarios">Comentários PHP</a>
+                            <a href="exercicio.php?dir=basico&file=comentarios">Comentários PHP.</a>
                         </li>
                     </ul>
                 </div>
