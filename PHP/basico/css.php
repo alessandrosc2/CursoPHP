@@ -1,19 +1,19 @@
 <div class="titulo">Integração PHP/CSS</div>
 
-<h1>
+<h1 center>
     <?php 
-    echo'Olá';
+    echo'Olá ';
     echo'<small>';
     echo' Mundo!';
     echo'</small>';
     ?>
 </h1>
 
-<?= "<div>Outra forma de me expressar!</div>" ?>
+<?= "<div center azul>Outra forma de me expressar!</div>" ?>
 
 <br>
 
-<div><button><?= "Legal" ?></button></div>
+<div center><button dobro><?= "Legal" ?></button></div>
 
 <style>
     button {
@@ -22,5 +22,18 @@
         color: #fff;
         font-weight: bold;
         border-radius: 10px;
+    }
+
+    [center] {
+        display: flex;
+        justify-content: center;
+    }
+
+    [azul] {
+        color: #4286f4;
+    }
+
+    [dobro] {
+        font-size: 2rem;
     }
 </style>
