@@ -46,6 +46,9 @@
                         <li>
                             <a href="exercicio.php?dir=tipos&file=float">Tipo Float.</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=aritimeticas">Op. Aritiméticas.</a>
+                        </li>
                     </ul>
                 </div>
             </nav>
