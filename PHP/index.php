@@ -49,6 +49,9 @@
                         <li>
                             <a href="exercicio.php?dir=tipos&file=aritimeticas">Op. Aritiméticas.</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=precedencia">Desafio Precedência.</a>
+                        </li>
                     </ul>
                 </div>
             </nav>
