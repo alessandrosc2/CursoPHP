@@ -2,5 +2,6 @@
 
 <?php
 
+$a = 'valorA';
 
 ?>
