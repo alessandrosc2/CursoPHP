@@ -3,5 +3,8 @@
 <?php
 
 $a = 'valorA';
+$valorA = 'ValorB';
+
+echo $$a;
 
 ?>
