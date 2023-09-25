@@ -59,3 +59,14 @@ if($idade >= 60 && $sexo === 'F') {
 }
 
 ?>
+
+<style>
+    p {
+        margin-bottom: 0px;
+        font-weight: bold;
+    }
+
+    hr {
+        margin-top: 0px;
+    }
+</style>
