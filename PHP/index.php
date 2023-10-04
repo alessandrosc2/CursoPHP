@@ -118,6 +118,14 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo laranja">
+                    <h3>Módulo 05 - Controle</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=basico">Array.</a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
             
         </div>
