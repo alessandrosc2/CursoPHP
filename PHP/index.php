@@ -124,6 +124,9 @@
                         <li>
                             <a href="exercicio.php?dir=array&file=basico">Array.</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=mapa">Mapa.</a>
+                        </li>
                     </ul>
                 </div>
             </nav>
