@@ -142,6 +142,9 @@
                         <li>
                             <a href="exercicio.php?dir=array&file=arrays_multidimensionais">Arrays Multidimensionais.</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=constantes">Arrays Constantes.</a>
+                        </li>
                     </ul>
                 </div>
             </nav>
