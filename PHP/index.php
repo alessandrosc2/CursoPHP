@@ -139,6 +139,9 @@
                         <li>
                             <a href="exercicio.php?dir=array&file=desafio_sorteio">Desafio Sorteio.</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=arrays_multidimensionais">Arrays Multidimensionais.</a>
+                        </li>
                     </ul>
                 </div>
             </nav>
